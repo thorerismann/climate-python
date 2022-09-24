@@ -8,12 +8,14 @@ In general the following modules are necessary, although some others may need to
 - numpy
 - pandas
 - jupyter lab
-- pip (to install specialty modules as required)
+- pip (to install specific modules as required)
 
 ## Classes included
 
 ### Climate and Agriculture
 The Aquacrop OSPY module is used to run a randomization experiment on irrigation dates within a simple crop model framework.
+
+Follow the instructions in the README.md file in the climate-agriculture folder to properly install the packages in the recomended order.
 
 ### Econometrics II
 
@@ -32,7 +34,4 @@ Pandas and seaborn is used to accomplish the weather and cliamte data module.
 Weekly solutions provided in R and Python
 
 ## Data
-Data files are not included in this repository for size reasons. They are available in the Drive Folder here:
-
-## Master thesis
-Check out my master thesis here ^^ : 
+Data files are generally not included in this repository for size reasons.
