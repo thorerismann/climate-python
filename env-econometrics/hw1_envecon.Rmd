@@ -1,0 +1,36 @@
+---
+title: "Environmental Econometrics Homework 1"
+author: "Gabrial Erismann"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+---
+title: "Homework 1"
+author: "Gabrial Erismann"
+date: "2022-10-03"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+# set up R markdown file, python environment
+knitr::opts_chunk$set(echo = TRUE)
+library(reticulate)
+use_condaenv('master-class',required = T)
+```
+
+```{python setup-py, include=FALSE}
+# Import Python libraries numpy and pandas
+import numpy as np
+import pandas as pd
+```
+## Exercise 1
+
+### 1
+
+## Exercise 2
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
