@@ -90,3 +90,11 @@ target/
 # Mypy cache
 .mypy_cache/
 .Rproj.user
+econ-biodiversity/archive/Plant-State-equations.md
+econ-biodiversity/archive/virus-state-equations.md
+env-econometrics/data/caribbean.dta
+env-econometrics/data/centralpark.dta
+env-econometrics/data/extreme_class_new.Rmd
+env-econometrics/data/cars.csv
+env-econometrics/data/mintemp.dta
+env-econometrics/data/Untitled.ipynb
