@@ -66,6 +66,12 @@ target/
 # Pycharm
 .idea
 
+# R
+climate-python/climate-statistics.Rhistory
+climate-python/climate-statistics.Rproj
+climate-python/climate-statistics.RData
+climate-python/climate-statistics/climstats/
+
 # VS Code
 .vscode/
 
